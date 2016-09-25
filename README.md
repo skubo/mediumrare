@@ -19,7 +19,7 @@ Currently this is a sunday afternoon hack, but it produces readable output. This
 example: 
 ./mediumrare.sh https://medium.com/feed/@skubo skubo.epub
 
-The script will add the date of today to the file name, as medium RSS feeds only contain maximum number of articles.
+The script will add the date of today to the file name, as medium RSS feeds only contain the ten latest articles.
 
 ## how it works
 

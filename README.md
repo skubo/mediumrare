@@ -1,5 +1,5 @@
 # mediumrare
-bash and python scripts for converting medium.com article feeds into epub tiles
+bash and python scripts for converting medium.com article feeds into epub files
 
 Currently this is a sunday afternoon hack, but it produces readable output. This might break very soon, if medium.com changes their website. 
 

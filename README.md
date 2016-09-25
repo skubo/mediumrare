@@ -14,7 +14,7 @@ Currently this is a sunday afternoon hack, but it produces readable output. This
 
 ## usage
 
-./mediumrare.sh <feedurl> <outputfilename>
+./mediumrare.sh feedurl outputfile
 
 example: 
 ./mediumrare.sh https://medium.com/feed/@skubo skubo.epub

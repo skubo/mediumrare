@@ -29,3 +29,8 @@ Medium.com makes it really hard for you to read content from their site on diffe
 
 - optimizing styles for epub in styles.css
 - use medium channel title image and author info for the epub title page
+
+##
+
+![Screenshot Terminal](https://raw.githubusercontent.com/skubo/mediumrare/master/screen1.png)
+![Screenshot ebook](https://raw.githubusercontent.com/skubo/mediumrare/master/screen2.png)

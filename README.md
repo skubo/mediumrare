@@ -1,5 +1,5 @@
 # mediumrare
-bash and python scripts for converting medium.com article feeds into epub tiles
+bash and python scripts for converting medium.com article feeds into epub files
 
 Currently this is a sunday afternoon hack, but it produces readable output. This might break very soon, if medium.com changes their website. 
 
@@ -29,3 +29,8 @@ Medium.com makes it really hard for you to read content from their site on diffe
 
 - optimizing styles for epub in styles.css
 - use medium channel title image and author info for the epub title page
+
+##
+
+![Screenshot Terminal](https://raw.githubusercontent.com/skubo/mediumrare/master/screen1.png)
+![Screenshot ebook](https://raw.githubusercontent.com/skubo/mediumrare/master/screen2.png)
